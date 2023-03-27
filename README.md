@@ -7,11 +7,9 @@
 
 
 ### 연습하고 있어요
-- [부호]
-- [비트 세기]
-
-
-# 제곱수 다루기
 - [주어진 정수가 2의 제곱수인지 확인하기](https://github.com/meyheel/bit-manipulation/blob/main/temp/checkPowerOf2.md)
+- [MSB 찾기](https://github.com/meyheel/bit-manipulation/blob/main/temp/findMSB.md)
+- [절대값 구하기](https://github.com/meyheel/bit-manipulation/blob/main/temp/getAbsoluteValue.md)
+- [반대 부호인지 확인하기](https://github.com/meyheel/bit-manipulation/blob/main/temp/hasOppostieSign.md)
 
 
