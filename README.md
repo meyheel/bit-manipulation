@@ -1,5 +1,5 @@
 [![author](https://img.shields.io/badge/author-hyem-brightgreen.svg?style=flat-square)](https://github.com/meyheel/bit-manipulation)
-[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/meyheel/blob/main/LICENSE.md)
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/meyheel/blob/main/LICENSE)
 [![Hits](https://hits.sh/github.com/meyheel/bit-manipulation.svg)](https://hits.sh/github.com/meyheel/bit-manipulation/)
 # bit-manipulation
 
